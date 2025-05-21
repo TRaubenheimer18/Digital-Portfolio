@@ -11,7 +11,7 @@
 
 - Through this process, a realistic, structured career pathway was developed and by aligning goals with personal values and available opportunities, I gained clarity, increased motivation, and the ability to track my progress toward meaningful employment outcomes.
 
-------
+___
 ## Skills and Interests
 ### Evidence:
 ![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/skills%20and%20interests.png)
@@ -24,7 +24,7 @@
 
 - This led to me having a clearer understanding of the types of work environments, tasks, and job roles that are most suitable for me. I now realised that, by matching interests and skills with potential career paths, individuals can pursue careers that are not only achievable but also enjoyable.
 
-------
+___
 ## Personality Assessment
 ### Evidence:
 ![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/personality%20assessment.png)
@@ -37,7 +37,7 @@
 
 - This topic provided individuals with insights into roles and environments that align with their characteristics, so as a result, my group work improved significantly, and I was more effective in both collaboration and leadership. Understanding my personality didn't just help with teamwork, it also gave me clarity about the environments and roles I'm best suited for.
 
-------
+___
 ## Create a CV
 ### Evidence:
 ![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/create%20a%20cv.png)
@@ -50,7 +50,7 @@
 
 - The module taught me that a CV should communicate not only qualifications, but also personal value and relevance to the role. My CV is now professionally formatted and content-rich which demonstrates relevance and attention to detail. 
 
-------
+___
 ## CV Submission
 ### Evidence:
 **My CV Submission**
