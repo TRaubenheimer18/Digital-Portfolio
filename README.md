@@ -53,6 +53,8 @@
 ------
 ## CV Submission
 ### Evidence:
+**My CV Submission**
+![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/Teyana%20Raubenheimer%20CV%20.pdf)
 ### Reflection:
 - After gaining all the knowledge I need to know about crafting a professional and well-structured CV, I've learnt that even a well-crafted CV can be overlooked if submitted incorrectly, with errors in formatting, email etiquette, or timing, leading to missed opportunities. 
 
