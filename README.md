@@ -2,14 +2,15 @@
 ## Career Counselling
 ### Evidence:
 ### Reflection: 
-As we know it, during the early stages of career exploration, many individuals, including myself, struggle with uncertainty about which career path to pursue or how to achieve long-term goals. 
+- As we know it, during the early stages of career exploration, many individuals, including myself, struggle with uncertainty about which career path to pursue or how to achieve long-term goals. 
 
-By doing this module, I learnt that the goal is to create a structured Career Development Plan to clarify personal aspirations, strengths and actions needed to reach career milestones. 
+- By doing this module, I learnt that the goal is to create a structured Career Development Plan to clarify personal aspirations, strengths and actions needed to reach career milestones. 
 
-The concept of SMART goals was introduced in this module. It guided us to reflect on personal values, strengths, and interests and to envision where we want to be on one to three years. The steps included defining career goals, identifying required skills and experience as well as using models like the 70/20/10 learning framework to create an actionable plan.
+- The concept of SMART goals was introduced in this module. It guided us to reflect on personal values, strengths, and interests and to envision where we want to be on one to three years. The steps included defining career goals, identifying required skills and experience as well as using models like the 70/20/10 learning framework to create an actionable plan.
 
-Through this process, a realistic, structured career pathway was developed and by aligning goals with personal values and available opportunities, I gained clarity, increased motivation, and the ability to track my progress toward meaningful employment outcomes.
+- Through this process, a realistic, structured career pathway was developed and by aligning goals with personal values and available opportunities, I gained clarity, increased motivation, and the ability to track my progress toward meaningful employment outcomes.
 
+------
 ## Skills and Interests
 ### Evidence:
 ### Reflection:
@@ -21,6 +22,7 @@ The action i took was to complete the skills self-assessment, identifying transf
 
 This led to me having a clearer understanding of the types of work environments, tasks, and job roles that are most suitable for me. I now realised that, by matching interests and skills with potential career paths, individuals can pursue careers that are not only achievable but also enjoyable.
 
+------
 ## Personality Assessment
 ### Evidence:
 ### Reflection:
@@ -32,6 +34,7 @@ action
 
 This topic provided individuals with insights into roles and environments that align with their characteristics, so as a result, my group work improved significantly, and I was more effective in both collaboration and leadership. Understanding my personality didn't just help with teamwork, it also gave me clarity about the environments and roles I'm best suited for.
 
+------
 ## Create a CV
 ### Evidence:
 ### Reflection:
@@ -43,6 +46,7 @@ The work-readiness module taught best practices for CV creation, including the o
 
 The module taught me that a CV should communicate not only qualifications, but also personal value and relevance to the role. My CV is now professionally formatted and content-rich which demonstrates relevance and attention to detail. 
 
+------
 ## CV Submission
 ### Evidence:
 ### Reflection:
