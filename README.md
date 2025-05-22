@@ -106,6 +106,7 @@ ___
 
 - My task was to ensure that my CV submission met professional standards. both in format and delivery and ensuring it reflects technical and soft skills. I then referred back to the module's lesson on email etiquette and asynchronous communication.
 
+___
 ## Conclusion
 
 This portfolio reflects the practical and personal development I’ve achieved through the Work-Readiness Module. From defining career goals and understanding my skills, to creating a professional CV and learning digital etiquette, I now feel confident in my preparedness for the modern workplace. This experience has given me both the tools and the mindset to continue growing professionally and to enter the job market with purpose.
