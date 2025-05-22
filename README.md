@@ -33,7 +33,7 @@ ___
 
 - As discussed in this topic, you need to evaluate personality traits using a structured framework to identify compatible career paths and work environments, so that is exactly what I did. I used the personality assessment tools provided in the module which revealed that i thrive in leadership and creative roles, but I need to be mindful of how assertiveness can come across to others. 
 
-- action
+- The module emphasized that personality affects communication, teamwork, leadership, and decision-making styles, so the action I took was to adapt my communication style during group interactions and actively listen in order to foster collaboration.
 
 - This topic provided individuals with insights into roles and environments that align with their characteristics, so as a result, my group work improved significantly, and I was more effective in both collaboration and leadership. Understanding my personality didn't just help with teamwork, it also gave me clarity about the environments and roles I'm best suited for.
 
@@ -53,8 +53,7 @@ ___
 ___
 ## CV Submission
 ### Evidence:
-**My CV Submission**
-![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/Teyana%20Raubenheimer%20CV%20.pdf)
+[**My CV Submission**](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/Teyana%20Raubenheimer%20CV%20.pdf)
 ### Reflection:
 - After gaining all the knowledge I need to know about crafting a professional and well-structured CV, I've learnt that even a well-crafted CV can be overlooked if submitted incorrectly, with errors in formatting, email etiquette, or timing, leading to missed opportunities. 
 
