@@ -7,7 +7,7 @@ ___
 > **Completed the quiz at the end of the topic.** 
 ![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/career%20development.png)
 
-_My goal is to secure an entry-level position as a Junior Web Developer within the next 12 months._
+_My goal is to secure an entry-level position as a Junior Web Developer within the next 7 months._
 
 - **Specific**: To complete a Javascript framework course using React and practice by building projects.
 - **Measurable**: Try to build at least 1 fully functional full-stack web app.
