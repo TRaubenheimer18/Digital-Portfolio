@@ -100,7 +100,7 @@ ___
 ### Reflection:
 - After gaining all the knowledge I need to know about crafting a professional and well-structured CV, I've learnt that even a well-crafted CV can be overlooked if submitted incorrectly, with errors in formatting, email etiquette, or timing, leading to missed opportunities. 
 
-- My task was to ensure that my CV submission met professional standards. both in format and delivery and ensuring it reflects technical and soft skills. I then referred back to the module's lesson on email etiquette and asynchronous communication.
+- My task was to ensure that my CV submission met professional standards. both in format and delivery and ensuring it reflects technical and soft skills.
 
 ___
 ## Conclusion
