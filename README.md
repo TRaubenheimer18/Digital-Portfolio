@@ -1,6 +1,5 @@
 # Teyana Raubenheimer: GitHub Digital-Portfolio
 Welcome to my Work-Readiness Digital Portfolio. This portfolio showcases my development through the FID Standard Work-Readiness Module, highlighting five essential areas which is Career Counselling, Skills and Interests, Personality Assessment, CV Creation, and CV Submission. Each section includes evidence of learning and reflection using the STAR technique to demonstrate how my knowledge and workplace readiness have progressed throughout this course.
-
 ___
 ## Career Counselling
 ### Evidence:
@@ -23,7 +22,6 @@ _My goal is to secure an entry-level position as a Junior Web Developer within t
 - The concept of SMART goals was introduced in this module. It guided me to reflect on my personal values, strengths, and interests and to envision where I want to be in a few years. The steps included defining career goals, identifying required skills and experience as well as using models like the 70/20/10 learning framework to create an actionable plan.
 
 - Through this process, a realistic, structured career pathway was developed and by aligning goals with personal values and available opportunities, I gained clarity, increased motivation, and the ability to track my progress toward meaningful employment outcomes.
-
 ___
 ## Skills and Interests
 ### Evidence:
@@ -55,7 +53,6 @@ ___
 - The action I took was to complete the skills self-assessment, identifying transferable and adaptive skills like problem-solving, communication, and leadership.
 
 - This led to me having a clearer understanding of the types of work environments, tasks, and job roles that are most suitable for me. I now realised that, by matching interests and skills with potential career paths, I can pursue careers that are not only achievable but also enjoyable.
-
 ___
 ## Personality Assessment
 ### Evidence:
@@ -75,7 +72,6 @@ ___
 - The module emphasized that personality affects communication, teamwork, leadership, and decision-making styles, so the action I took was to adapt my communication style during group interactions and actively listen in order to foster collaboration.
 
 - This topic provided individuals with insights into roles and environments that align with their characteristics, so as a result, my group work improved significantly, and I was more effective in both collaboration and leadership. Understanding my personality didn't just help with teamwork, it also gave me clarity about the environments and roles I'm best suited for.
-
 ___
 ## Create a CV
 ### Evidence:
@@ -90,7 +86,6 @@ ___
 - The work-readiness module taught best practices for CV creation, including the organization of key sections such as contact information, education, work experience, and skills, as well as optional sections like a personal summary. My actions included tailoring each section of my CV using action verbs. I also added a profile statement as well as a skills section based on my adaptive and technical capabilities.
 
 - The module taught me that a CV should communicate not only qualifications, but also personal value and relevance to the role. My CV is now professionally formatted and content-rich which demonstrates relevance and attention to detail. 
-
 ___
 ## CV Submission
 ### Evidence:
@@ -100,9 +95,11 @@ ___
 ### Reflection:
 - After gaining all the knowledge I need to know about crafting a professional and well-structured CV, I've learnt that even a well-crafted CV can be overlooked if submitted incorrectly, with errors in formatting, email etiquette, or timing, leading to missed opportunities. 
 
-- My task was to ensure that my CV submission met professional standards. both in format and delivery and ensuring it reflects technical and soft skills.
+- My task was to ensure that my CV submission met professional standards, both in format and delivery and ensuring it reflects technical and soft skills.
 
+- Topics that were also covered in this module was email etiquette, file formatting, and professional communication, by providing detailed instructions on how to write concise and respectful cover messages, include clear subject lines, proofread attachments, and use formal sign-offs.
+
+- I learnt that by submitting a CV with a professional tone and correct format, your overall impression on employers increases.  It signals preparedness, reliability, and communication competence.
 ___
 ## Conclusion
-
 This portfolio reflects the practical and personal development I’ve achieved through the Work-Readiness Module. From defining career goals and understanding my skills, to creating a professional CV and learning digital etiquette, I now feel confident in my preparedness for the modern workplace. This experience has given me both the tools and the mindset to continue growing professionally and to enter the job market with purpose.
