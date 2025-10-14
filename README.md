@@ -108,6 +108,38 @@ ___
 
 - I learnt that by submitting a CV with a professional tone and correct format, your overall impression on employers increases.  It signals preparedness, reliability, and communication competence.
 ___
+## Business Communication
+### Evidence:
+> **Completed the quiz at the end of the topic.**
+![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/create%20a%20cv.png)
+
+### Reflection:
+___
+## Interview Skills
+### Evidence:
+> **Completed the quiz at the end of the topic.**
+![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/interview%20skills.png)
+
+### Reflection:
+___
+## Mock Interview
+### Evidence:
+
+
+### Reflection:
+___
+## Professional Networking
+### Evidence:
+![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/professional%20networking.png)
+
+### Reflection:
+___
+## Workplace Etiqutte
+### Evidence:
+![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/workplace%20etiquette.png)
+
+### Reflection:
+___
 ## Conclusion
 
 This portfolio reflects the practical and personal development I’ve achieved through the Work-Readiness Module. From defining career goals and understanding my skills, to creating a professional CV and learning digital etiquette, I now feel confident in my preparedness for the modern workplace. This experience has given me both the tools and the mindset to continue growing professionally and to enter the job market with purpose.
