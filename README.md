@@ -113,34 +113,78 @@ ___
 > **Completed the quiz at the end of the topic.**
 ![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/create%20a%20cv.png)
 
+**Key Learning Activities:**
+- Completed module exercises on verbal and non-verbal communication.
+- Analysed case studies on email tone and professional messaging.
+- Learned business writing structure: purpose, audience, and clarity.
+- Practised email etiquette, appropriate tone, and meeting behaviour.
+
 ### Reflection:
+- I learnt that communication in the workplace is one of the most important professional skills, because effective communication ensures that the messages are received clearly and respectfully. This topic explored different forms of communication such as verbal, non-verbal, and written, and how each plays a crucial role in how information is shared and understood in a business environment.
+
+- I found that the purpose of commmunication is to be professional and to use an appropriate tone for audience. What was also emphasized in this module is that non-verbal communication such as eye contact, posture, and facial expressions can affect how a message is received. I also learned how written communication, like emails and reports, should be structured to maintain clarity and professionalism.
+
+- During this topic, the action I took included practising professional email writing, avoiding slang or informal language, and ensuring that my tone matched the context of the message. I also started paying attention to body language and active listening during group activities and meetings.
+
+- I understand how to adapt my tone, writing style, and body language to different workplace situations as I an now more aware of how to communicate professionally and effectively, as a result of this topic.
+
 ___
 ## Interview Skills
 ### Evidence:
 > **Completed the quiz at the end of the topic.**
 ![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/interview%20skills.png)
 
+**Key Learning Activities:**
+- Studied common interview questions and professional responses.
+- Practised behavioural interview techniques using the CAR method (Context, Action, Result).
+- Reviewed examples of appropriate dress, body language, and punctuality.
+- Learned how to research companies and prepare insightful questions.
+
 ### Reflection:
+- In this topic, I learnt that interviews are a critical step in the job application process and that being prepared is the key to success as many candidates fail interviews, not because they lack skills, but because they are not adequately prepared or do not communicate their value effectively.
+
+- I was taught how to research companies before interviews, to prepare responses to common questions, and to use the CAR method (Context, Action, Result) to structure my answers. I also learnt that first impressions are important, such as dressing appropriately, arriving early, and using positive body language.
+
+- I was given a task to apply these techniques to build my interview readiness and I practised answering behavioural and situational questions confidently and clearly. I also focused on maintaining good posture, steady eye contact, and an engaging tone during responses.
+
+- I now feel better equipped to attend real interviews with confidence as I now understand how to present my skills and experiences in a professional way, maintain composure under pressure, and to leave a positive impression on potential employers.
 ___
 ## Mock Interview
 ### Evidence:
 
 
 ### Reflection:
+- I participated in a mock interview that simulated a real interview environment and the aim of this activity was for me to apply what I had learnt in the previous topic and evaluate my communication and presentation skills in a professional setting.
+
+- The mock interview allowed me to experience what it feels like to be in an actual interview as I was asked common and behavioural questions, and I practised using the CAR method to respond effectively.
+
+- Valuable experience was gained that increased my confidence and improved my ability to perform under pressure, because the mock interview helped me identify areas for improvement and showed me how to communicate my strengths clearly and professionally.
 ___
 ## Professional Networking
 ### Evidence:
 ![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/professional%20networking.png)
 
+**Netwoking Priciples:**
+- Networking is about building mutually beneficial relationships.
+- Authenticity and consistency are key.
+- Always follow up respectfully and maintain contact with professional connections.
+
 ### Reflection:
+- 
 ___
 ## Workplace Etiqutte
 ### Evidence:
 ![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/workplace%20etiquette.png)
 
+**Key Lessons Learned:**
+-Professionalism is defined by behaviour, communication, and reliability.
+-Respect, accountability, and punctuality are essential.
+-Dress code and appropriate conduct reflect workplace culture.
+-Scenarios analysed included handling conflict, punctuality, and professional email tone.
+
 ### Reflection:
 ___
 ## Conclusion
 
-This portfolio reflects the practical and personal development I’ve achieved through the Work-Readiness Module. From defining career goals and understanding my skills, to creating a professional CV and learning digital etiquette, I now feel confident in my preparedness for the modern workplace. This experience has given me both the tools and the mindset to continue growing professionally and to enter the job market with purpose.
+This portfolio reflects the practical and personal development I’ve achieved through the Work-Readiness Module. From defining career goals and understanding my skills, to creating a professional CV and learning digital etiquette, I now feel confident in my preparedness for the modern workplace. This experience has given me both the tools and the mindset to continue growing professionally and to enter the job market with purpose. Completing all ten modules of the Work-Readiness course has strengthened my professional and interpersonal abilities. I have developed communication and networking skills, gained confidence in interviews, and learned how to maintain professionalism in the workplace. These lessons collectively prepared me for a successful transition from university into the professional world.
 
