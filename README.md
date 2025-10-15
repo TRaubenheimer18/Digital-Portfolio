@@ -170,19 +170,32 @@ ___
 - Always follow up respectfully and maintain contact with professional connections.
 
 ### Reflection:
-- 
+- Building and maintaining meaningful relationships that can support one’s career growth, is what professional networking is about. It's not just about meeting people but about creating mutually beneficial professional connections. 
+
+- I discovered that the key elements of successful netwoking are authenticity, consistency, and communication. Both in-person and online networking, including how to use professional platforms like LinkedIn to connect with industry professionals was covered in this module.
+
+- After reading about this topic, I developed my own professional online presence, by creating a LinkedIn profile, and learning how to introduce myself using a short and clear elevator pitch. I also learnt to engage with others’ content professionally and follow up after networking events.
+
+- I now understand the importance of networking as an ongoing process and I have learnt that effective networking can lead to mentorship, job opportunities, and professional development. It has taught me to stay professional and proactive in maintaining connections with others in my field.
 ___
 ## Workplace Etiqutte
 ### Evidence:
 ![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/workplace%20etiquette.png)
 
 **Key Lessons Learned:**
--Professionalism is defined by behaviour, communication, and reliability.
--Respect, accountability, and punctuality are essential.
--Dress code and appropriate conduct reflect workplace culture.
--Scenarios analysed included handling conflict, punctuality, and professional email tone.
+- Professionalism is defined by behaviour, communication, and reliability.
+- Respect, accountability, and punctuality are essential.
+- Dress code and appropriate conduct reflect workplace culture.
+- Scenarios analysed included handling conflict, punctuality, and professional email tone.
 
 ### Reflection:
+- This topic taught me that professionalism is not only about technical skills but also about how we behave, communicate, and interact in the workplace as having a good etiquette reflects respect, responsibility, and maturity, all of which are essential for building trust in a professional environment.
+
+- I learnt that it is important to be puntual, take accountablility, and have respect for colleagues and clients. This topic also covered how professional behaviour extends to dress code, communication style, and even how we respond to criticism or resolve conflicts.
+
+- The action I took was to reflect on how I present myself in group and professional settings by applying the principles of professionalism to ensure that I meet deadlines, dress appropriately, and communicate respectfully. Another things I learnt was how to respond constructively to feedback and to handle disagreements calmly.
+
+- As a result, I now have an understanding on how my behaviour can influence workplace relationships and productivity, so by practising good etiquette, I can contribute to a more positive and respectful working environment where collaboration and trust can thrive.
 ___
 ## Conclusion
 
