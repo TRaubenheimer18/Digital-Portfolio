@@ -111,7 +111,7 @@ ___
 ## Business Communication
 ### Evidence:
 > **Completed the quiz at the end of the topic.**
-![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/create%20a%20cv.png)
+![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/business%20communication.png)
 
 **Key Learning Activities:**
 - Completed module exercises on verbal and non-verbal communication.
@@ -120,9 +120,9 @@ ___
 - Practised email etiquette, appropriate tone, and meeting behaviour.
 
 ### Reflection:
-- I learnt that communication in the workplace is one of the most important professional skills, because effective communication ensures that the messages are received clearly and respectfully. This topic explored different forms of communication such as verbal, non-verbal, and written, and how each plays a crucial role in how information is shared and understood in a business environment.
+- I learnt that communication in the workplace is one of the most important professional skills because effective communication ensures that the messages are received clearly and respectfully. This topic explored different forms of communication such as verbal, non-verbal, and written, and how each plays a crucial role in how information is shared and understood in a business environment.
 
-- I found that the purpose of commmunication is to be professional and to use an appropriate tone for audience. What was also emphasized in this module is that non-verbal communication such as eye contact, posture, and facial expressions can affect how a message is received. I also learned how written communication, like emails and reports, should be structured to maintain clarity and professionalism.
+- I discovered that the purpose of communication is to be professional and to use an appropriate tone for audience. What was also emphasized in this module is that non-verbal communication such as eye contact, posture, and facial expressions can affect how a message is received. I also learned how written communication, like emails and reports, should be structured to maintain clarity and professionalism.
 
 - During this topic, the action I took included practising professional email writing, avoiding slang or informal language, and ensuring that my tone matched the context of the message. I also started paying attention to body language and active listening during group activities and meetings.
 
@@ -164,7 +164,7 @@ ___
 ### Evidence:
 ![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/professional%20networking.png)
 
-**Netwoking Priciples:**
+**Networking Priciples:**
 - Networking is about building mutually beneficial relationships.
 - Authenticity and consistency are key.
 - Always follow up respectfully and maintain contact with professional connections.
@@ -172,13 +172,13 @@ ___
 ### Reflection:
 - Building and maintaining meaningful relationships that can support one’s career growth, is what professional networking is about. It's not just about meeting people but about creating mutually beneficial professional connections. 
 
-- I discovered that the key elements of successful netwoking are authenticity, consistency, and communication. Both in-person and online networking, including how to use professional platforms like LinkedIn to connect with industry professionals was covered in this module.
+- I discovered that the key elements of successful networking are authenticity, consistency, and communication. Both in-person and online networking, including how to use professional platforms like LinkedIn to connect with industry professionals was covered in this module.
 
 - After reading about this topic, I developed my own professional online presence, by creating a LinkedIn profile, and learning how to introduce myself using a short and clear elevator pitch. I also learnt to engage with others’ content professionally and follow up after networking events.
 
 - I now understand the importance of networking as an ongoing process and I have learnt that effective networking can lead to mentorship, job opportunities, and professional development. It has taught me to stay professional and proactive in maintaining connections with others in my field.
 ___
-## Workplace Etiqutte
+## Workplace Etiquette
 ### Evidence:
 ![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/workplace%20etiquette.png)
 
@@ -191,7 +191,7 @@ ___
 ### Reflection:
 - This topic taught me that professionalism is not only about technical skills but also about how we behave, communicate, and interact in the workplace as having a good etiquette reflects respect, responsibility, and maturity, all of which are essential for building trust in a professional environment.
 
-- I learnt that it is important to be puntual, take accountablility, and have respect for colleagues and clients. This topic also covered how professional behaviour extends to dress code, communication style, and even how we respond to criticism or resolve conflicts.
+- I learnt that it is important to be puntual, take accountability, and have respect for colleagues and clients. This topic also covered how professional behaviour extends to dress code, communication style, and even how we respond to criticism or resolve conflicts.
 
 - The action I took was to reflect on how I present myself in group and professional settings by applying the principles of professionalism to ensure that I meet deadlines, dress appropriately, and communicate respectfully. Another things I learnt was how to respond constructively to feedback and to handle disagreements calmly.
 
