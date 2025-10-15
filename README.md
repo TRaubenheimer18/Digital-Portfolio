@@ -141,30 +141,32 @@ ___
 - Learned how to research companies and prepare insightful questions.
 
 ### Reflection:
-- In this topic, I learnt that interviews are a critical step in the job application process and that being prepared is the key to success as many candidates fail interviews, not because they lack skills, but because they are not adequately prepared or do not communicate their value effectively.
+- In this topic, I learnt that interviews are a critical step in the job application process and that being prepared is the key to success as many candidates fail interviews not because they lack skills, but because they are not adequately prepared or do not communicate their value effectively.
 
 - I was taught how to research companies before interviews, to prepare responses to common questions, and to use the CAR method (Context, Action, Result) to structure my answers. I also learnt that first impressions are important, such as dressing appropriately, arriving early, and using positive body language.
 
 - I was given a task to apply these techniques to build my interview readiness and I practised answering behavioural and situational questions confidently and clearly. I also focused on maintaining good posture, steady eye contact, and an engaging tone during responses.
 
-- I now feel better equipped to attend real interviews with confidence as I now understand how to present my skills and experiences in a professional way, maintain composure under pressure, and to leave a positive impression on potential employers.
+- I now feel better equipped to attend real interviews with confidence as I now understand how to present my skills and experiences in a professional way, maintain composure under pressure, and leave a positive impression on potential employers.
 ___
 ## Mock Interview
 ### Evidence:
 
 
 ### Reflection:
-- I participated in a mock interview that simulated a real interview environment and the aim of this activity was for me to apply what I had learnt in the previous topic and evaluate my communication and presentation skills in a professional setting.
+- As part of this module, I was required to record and submit a mock interview video and the purpose of this task was to simulate a real job interview environment and I had to apply the concepts I had learned in the Interview Skills topic, such as verbal communication, body language, and structuring responses using the CAR (Context, Action, Result) method.
+  
+- I prepared for the interview by researching a job role I was interested in, rehearsing my introduction, and developing answers to questions that was provided. During the recording, I focused on maintaining good posture, clear tone, and confident delivery while ensuring that my responses reflected my personal strengths and experiences.
 
-- The mock interview allowed me to experience what it feels like to be in an actual interview as I was asked common and behavioural questions, and I practised using the CAR method to respond effectively.
+- Although I did not receive direct feedback on the video, I was able to self-evaluate my performance by reviewing the recording afterward as this helped me identify areas I could improve, such as speaking more naturally, minimizing filler words, and maintaining consistent eye contact.
 
-- Valuable experience was gained that increased my confidence and improved my ability to perform under pressure, because the mock interview helped me identify areas for improvement and showed me how to communicate my strengths clearly and professionally.
+- As a result, the mock interview gave me a realistic understanding of how I present myself in an interview setting and prepared me for future real-life interviews by reinforcing the importance of preparation, professionalism, and clear communication. This experience strengthened my confidence and improved my self-awareness.
 ___
 ## Professional Networking
 ### Evidence:
 ![Tomolor](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/professional%20networking.png)
 
-**Networking Priciples:**
+**Networking Principles:**
 - Networking is about building mutually beneficial relationships.
 - Authenticity and consistency are key.
 - Always follow up respectfully and maintain contact with professional connections.
@@ -193,7 +195,7 @@ ___
 
 - I learnt that it is important to be puntual, take accountability, and have respect for colleagues and clients. This topic also covered how professional behaviour extends to dress code, communication style, and even how we respond to criticism or resolve conflicts.
 
-- The action I took was to reflect on how I present myself in group and professional settings by applying the principles of professionalism to ensure that I meet deadlines, dress appropriately, and communicate respectfully. Another things I learnt was how to respond constructively to feedback and to handle disagreements calmly.
+- The action I took was to reflect on how I present myself in group and professional settings by applying the principles of professionalism to ensure that I meet deadlines, dress appropriately, and communicate respectfully. Another thing I learnt was how to respond constructively to feedback and to handle disagreements calmly.
 
 - As a result, I now have an understanding on how my behaviour can influence workplace relationships and productivity, so by practising good etiquette, I can contribute to a more positive and respectful working environment where collaboration and trust can thrive.
 ___
