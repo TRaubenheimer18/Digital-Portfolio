@@ -151,7 +151,7 @@ ___
 ___
 ## Mock Interview
 ### Evidence:
-
+> **Recorded and submitted a [mock interview video](https://github.com/TRaubenheimer18/Digital-Portfolio/blob/main/Mock%20Interview%20Video.mp4) as part of the Work-Readiness Module practical task.**
 
 ### Reflection:
 - As part of this module, I was required to record and submit a mock interview video and the purpose of this task was to simulate a real job interview environment and I had to apply the concepts I had learned in the Interview Skills topic, such as verbal communication, body language, and structuring responses using the CAR (Context, Action, Result) method.
