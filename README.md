@@ -33,7 +33,7 @@ ___
 **My Top 5 Core Values:**
 - Independence
 - Creativity
-- Helping Other
+- Helping Others
 - Growth
 - Integrity
 
@@ -104,7 +104,7 @@ ___
 
 - My task was to ensure that my CV submission met professional standards, both in format and delivery and ensuring it reflects technical and soft skills.
 
-- Topics that were also covered in this module was email etiquette, file formatting, and professional communication, by providing detailed instructions on how to write concise and respectful cover messages, include clear subject lines, proofread attachments, and use formal sign-offs.
+- Topics that were also covered in this module were email etiquette, file formatting, and professional communication, by providing detailed instructions on how to write concise and respectful cover messages, include clear subject lines, proofread attachments, and use formal sign-offs.
 
 - I learnt that by submitting a CV with a professional tone and correct format, your overall impression on employers increases.  It signals preparedness, reliability, and communication competence.
 ___
@@ -122,11 +122,11 @@ ___
 ### Reflection:
 - I learnt that communication in the workplace is one of the most important professional skills because effective communication ensures that the messages are received clearly and respectfully. This topic explored different forms of communication such as verbal, non-verbal, and written, and how each plays a crucial role in how information is shared and understood in a business environment.
 
-- I discovered that the purpose of communication is to be professional and to use an appropriate tone for audience. What was also emphasized in this module is that non-verbal communication such as eye contact, posture, and facial expressions can affect how a message is received. I also learned how written communication, like emails and reports, should be structured to maintain clarity and professionalism.
+- I discovered that the purpose of communication is to be professional and to use an appropriate tone for the audience. What was also emphasized in this module is that non-verbal communication such as eye contact, posture, and facial expressions can affect how a message is received. I also learned how written communication, like emails and reports, should be structured to maintain clarity and professionalism.
 
 - During this topic, the action I took included practising professional email writing, avoiding slang or informal language, and ensuring that my tone matched the context of the message. I also started paying attention to body language and active listening during group activities and meetings.
 
-- I understand how to adapt my tone, writing style, and body language to different workplace situations as I an now more aware of how to communicate professionally and effectively, as a result of this topic.
+- I understand how to adapt my tone, writing style, and body language to different workplace situations as I am now more aware of how to communicate professionally and effectively, as a result of this topic.
 
 ___
 ## Interview Skills
@@ -173,7 +173,7 @@ ___
 - Always follow up respectfully and maintain contact with professional connections.
 
 ### Reflection:
-- Building and maintaining meaningful relationships that can support one’s career growth, is what professional networking is about. It's not just about meeting people but about creating mutually beneficial professional connections. 
+- Building and maintaining meaningful relationships that can support one’s career growth is what professional networking is about. It's not just about meeting people but about creating mutually beneficial professional connections. 
 
 - I discovered that the key elements of successful networking are authenticity, consistency, and communication. Both in-person and online networking, including how to use professional platforms like LinkedIn to connect with industry professionals was covered in this module.
 
@@ -194,13 +194,13 @@ ___
 ### Reflection:
 - This topic taught me that professionalism is not only about technical skills but also about how we behave, communicate, and interact in the workplace as having a good etiquette reflects respect, responsibility, and maturity, all of which are essential for building trust in a professional environment.
 
-- I learnt that it is important to be puntual, take accountability, and have respect for colleagues and clients. This topic also covered how professional behaviour extends to dress code, communication style, and even how we respond to criticism or resolve conflicts.
+- I learnt that it is important to be punctual, take accountability, and have respect for colleagues and clients. This topic also covered how professional behaviour extends to dress code, communication style, and even how we respond to criticism or resolve conflicts.
 
 - The action I took was to reflect on how I present myself in group and professional settings by applying the principles of professionalism to ensure that I meet deadlines, dress appropriately, and communicate respectfully. Another thing I learnt was how to respond constructively to feedback and to handle disagreements calmly.
 
-- As a result, I now have an understanding on how my behaviour can influence workplace relationships and productivity, so by practising good etiquette, I can contribute to a more positive and respectful working environment where collaboration and trust can thrive.
+- As a result, I now have an understanding of how my behaviour can influence workplace relationships and productivity, so by practising good etiquette, I can contribute to a more positive and respectful working environment where collaboration and trust can thrive.
 ___
 ## Conclusion
 
-This portfolio reflects the practical and personal development I’ve achieved through the Work-Readiness Module. From defining career goals and understanding my skills, to creating a professional CV and learning digital etiquette, I now feel confident in my preparedness for the modern workplace. This experience has given me both the tools and the mindset to continue growing professionally and to enter the job market with purpose. Completing all ten modules of the Work-Readiness course has strengthened my professional and interpersonal abilities. I have developed communication and networking skills, gained confidence in interviews, and learned how to maintain professionalism in the workplace. These lessons collectively prepared me for a successful transition from university into the professional world.
+This portfolio reflects the practical and personal development I’ve achieved through the Work-Readiness Module. From defining career goals and understanding my skills, to creating a professional CV, and learning digital etiquette, I now feel confident in my preparedness for the modern workplace. This experience has given me both the tools and the mindset to continue growing professionally and to enter the job market with purpose. Completing all ten modules of the Work-Readiness course has strengthened my professional and interpersonal abilities. I have developed communication and networking skills, gained confidence in interviews, and learned how to maintain professionalism in the workplace. These lessons collectively prepared me for a successful transition from university into the professional world.
 
